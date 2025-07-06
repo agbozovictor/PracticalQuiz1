@@ -45,19 +45,19 @@ p {
 
 main {
     display: flex;
+    background-image: url('../img/page_bg.jpg');
 }
 
 .left-side {
     width: 480px;
     padding: 10px 10px;
-    background: #f3e8aa;
+    /* background: #f3e8aa; */
 }
 
 .right-side {
     width: 160px;
     padding: 10px 10px;
-    background: #f1c969;
-    border-left: 2px dotted #3333339e;
+    /* background: #f1c969; */
 }
 
 .paragraph h3 {
